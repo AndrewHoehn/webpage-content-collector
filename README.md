@@ -41,6 +41,8 @@ python webpage_content_aggregator.py
 
 ## Example Output
 
+See an example [here](sample_output.html). 
+
 The script creates a well-structured HTML document with:
 
 - A header section showing generation timestamp

@@ -1,4 +1,4 @@
-# Webpage Content Aggregator
+# Webpage Content Collector
 
 Paste in a list of URLs from multiple webpages, get out a single, well-formatted HTML document. Perfect for getting specific web content into a LLM and more. 
 
